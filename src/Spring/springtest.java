@@ -1,5 +1,7 @@
 package Spring;
 
 public class springtest {
-System.out.print("Test");
+	public static void main(String args[]){
+		System.out.println("Test");
+	}
 }
